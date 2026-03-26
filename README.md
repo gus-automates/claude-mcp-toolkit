@@ -10,10 +10,10 @@ The [Model Context Protocol](https://modelcontextprotocol.io) is an open standar
 
 | Folder | Description |
 |---|---|
-| `servers/n8n` | MCP integration with n8n for workflow automation |
-| `servers/gmail` | Connecting Claude to Gmail via MCP |
-| `servers/google-calendar` | Claude + Google Calendar for scheduling workflows |
-| `configs/` | Sanitized example config files for Claude Code setup |
+| [`servers/n8n.md`](servers/n8n.md) | MCP integration with n8n for workflow automation |
+| [`servers/gmail.md`](servers/gmail.md) | Connecting Claude to Gmail via MCP |
+| [`servers/google-calendar.md`](servers/google-calendar.md) | Claude + Google Calendar for scheduling workflows |
+| [`configs/`](configs/claude.example.json) | Sanitized example config files for Claude Code setup |
 
 ## Tools & Stack
 
