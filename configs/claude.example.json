@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "n8n": {
+      "type": "url",
+      "url": "YOUR_N8N_MCP_SERVER_URL"
+    },
+    "gmail": {
+      "type": "url",
+      "url": "https://gmail.mcp.claude.com/mcp"
+    },
+    "google-calendar": {
+      "type": "url",
+      "url": "https://gcal.mcp.claude.com/mcp"
+    }
+  }
+}
